@@ -1,0 +1,28 @@
+.banner-items{
+    background-image: url('../images/banner.png');
+    height:550px;
+    width: 1170px;
+    background-repeat: no-repeat;
+    margin-top: 60px;
+    margin-left: 180px;
+}
+.button{
+    background-color:#F3F3F3;
+    text-align: center;  
+}
+.footer{
+    height: 500px;
+    background-color: black;
+}
+.abc{
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.buttons{
+    background-color: #B68C5A;
+    padding: 13px;
+    border-style: none;
+    border-radius: 10px;
+    color: white;
+}
+
