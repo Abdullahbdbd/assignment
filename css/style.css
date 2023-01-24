@@ -1,10 +1,9 @@
 .banner-items{
     background-image: url('../images/banner.png');
     height:550px;
-    width: 1170px;
     background-repeat: no-repeat;
     margin-top: 60px;
-    margin-left: 180px;
+    padding-left: 40px;
 }
 .button{
     background-color:#F3F3F3;
